@@ -1,7 +1,7 @@
 .description{
 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: medium;
+  font-size: bold;
   
   
 
@@ -15,11 +15,14 @@ font-size: medium;
 
 .form{
 
+  font-size: medium;
+
 
 }
 
 .footer{
 
+  font-size: medium;
 
 
 }
