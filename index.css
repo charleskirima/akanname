@@ -1,37 +1,11 @@
-
-
-body {background-color: blue;
-  padding:20px;
-  font-family:fantasy;
-
-}
-
-.main{
-
-  max-width: 100px;
-  margin:auto
-
-}
-
-.header{
-
-  font-size: 40px;
-  font-family: sans-serif ;
-  color: blue;
-
-}
-
 .description{
 
-  font-size: 15;
-  font-family : 'Times New Roman' ;
-  color: black;
-}
-
-.form{
-
-font-size: 20;
-  font-family:sans-serif;
-  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: x-large
+  
 
 }
+
+.gender{}
+
+.footer{}
