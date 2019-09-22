@@ -1,11 +1,25 @@
 .description{
 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: x-large
+  font-size: medium;
+  
   
 
 }
 
-.gender{}
+.gender{
 
-.footer{}
+font-size: medium;
+
+}
+
+.form{
+
+
+}
+
+.footer{
+
+
+
+}
