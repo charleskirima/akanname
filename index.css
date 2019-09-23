@@ -18,13 +18,14 @@
 .gender{
 
 font-size: medium;
-font-style: oblique
+font-style: oblique;
 
 }
 
 .form{
 
   font-size: medium;
+  background-image: none;
 
 
 }
