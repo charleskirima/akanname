@@ -1,0 +1,12 @@
+# Akan Names
+#By **Charles_Kinyua**
+## Description
+This is website application that determines your Ghanian birth name by calculating the day of week in which you were born, based on your birthday details.
+## Setup/Installation Requirements
+* Open OsmanMariam profile on GitHUb or search for username.
+* Click on akan names repostotory.
+## Languages Used
+Used MTML to develop the basic structure of the page.CSS was later used to to style the page and make it more appealing by adding elements such as images and color,and also by neatly arranging the text in the page. Additional stylying using bootstrap was also incorporated.The functionality of the website application was all achieved using javascript.
+## Support and contacts
+*feel free to add your views
+
