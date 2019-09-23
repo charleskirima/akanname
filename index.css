@@ -4,6 +4,7 @@
 
   background-image: url("cool.jpg");
   background-color: beige;
+  
 }
   
 .description{
@@ -20,6 +21,7 @@
 
 font-size: medium;
 font-style: oblique;
+background-blend-mode: darken;
 
 }
 
