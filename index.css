@@ -1,7 +1,15 @@
+
+
+.body {
+
+  background-image: url("cool.jpg");
+}
+  
 .description{
 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: bold;
+
   
   
 
@@ -10,6 +18,7 @@
 .gender{
 
 font-size: medium;
+
 
 }
 
